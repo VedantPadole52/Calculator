@@ -1,1 +1,1 @@
-# Calculator
+# Calculator for daily purpose
