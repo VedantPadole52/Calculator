@@ -1,2 +1,2 @@
 # Calculator for daily purpose
-This is calculator project bu using C languange.
+This is calculator project by using C languange.
